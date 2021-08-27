@@ -27,13 +27,15 @@ I recevied my Master's degree in Control Science and Engineering, [http://ev.bua
 
 - Graduate Research Assistant, [http://engineering.nyu.edu/ Tandon School of Engineering], [http://www.nyu.edu/ New York University], USA, 01\/2019-08\/2019. (Advisor: [https://engineering.nyu.edu/faculty/quanyan-zhu/ prof. Quanyan Zhu])
 
-=== Talks
-
-- Learning Based Model Predictive Control with Performance Guarantees (4th BC Universities Systems and Control ONLINE Meeting)
-
 === Skills
 - Programming: Julia, Python, matlab
 - Tools: [http://github.com/jump-dev/JuMP.jl/ JuMP], [http://github.com/zavalab/Plasmo.jl/ Plasmo], [http://fluxml.ai/Flux.jl/stable/ Flux], [Pytorch], [http://www.pyomo.org/ Pyomo], Simulink, bash and etc.
+
+=== Recent News
+
+~~~
+- *Aug. 26th 2021* I gave a presentation titled /Learning Based Model Predictive Control with Performance Guarantees/  on the 4th [http://onlineacademiccommunity.uvic.ca/bcscm/ BC Universities Systems and Control ONLINE Meeting]
+~~~
 
 
 
