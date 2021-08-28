@@ -29,7 +29,7 @@ I recevied my Master's degree in Control Science and Engineering, [http://ev.bua
 
 === Skills
 - Programming: Julia, Python, matlab
-- Tools: [http://github.com/jump-dev/JuMP.jl/ JuMP], [http://github.com/zavalab/Plasmo.jl/ Plasmo], [http://fluxml.ai/Flux.jl/stable/ Flux], [Pytorch], [http://www.pyomo.org/ Pyomo], Simulink, bash and etc.
+- Tools: [http://github.com/jump-dev/JuMP.jl/ JuMP], [http://github.com/zavalab/Plasmo.jl/ Plasmo], [http://fluxml.ai/Flux.jl/stable/ Flux], [Pytorch], [http://www.pyomo.org/ Pyomo], Simulink, bash, [http://gym.openai.com/ OpenAI Gym], [http://spinningup.openai.com/en/latest/ Spinning Up].
 
 === Recent News
 ~~~
