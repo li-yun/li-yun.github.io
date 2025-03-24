@@ -16,6 +16,7 @@ Email: [y.li-39@tudelft.nl] ; [yunli.tudelft@gmail.com]
 I recevied my Master's degree in Control Science and Engineering, [http://ev.buaa.edu.cn/ Beihang University] (BUAA), Beijing, China, 2015-2018. Before that, I received my B.S. degree in Automation from [http://www.buct.edu.cn/ Beijing University of Chemical Technology] (BUCT), Beijing, China, 2011-2015. Currently, I am pursuing my Ph.D. degree at [http://www.tudelft.nl/ TU Delft], Delft, the Netherlands, under the supervision of prof. [https://www.tudelft.nl/en/staff/t.keviczky/ Tamas Keviczky] and prof. [https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/algorithmics/people/neil-yorke-smith/ Neil Yorke-Smith].
 
 === Research Interests
+- data-driven predictive control and optimization
 - model predictive control
 - robust optimization
 - reinforcement learning
@@ -26,7 +27,8 @@ I recevied my Master's degree in Control Science and Engineering, [http://ev.bua
 - smart buildings
 - smart grid
 
-=== Working Experience
+=== Academic Experience
+- Visiting PhD student, [https://www.epfl.ch/labs/la/ Automatic Control Laboratory], EPFL, Switzerland, 09\/2024 - 11\/2024. (Advisor prof. Colin N. Jones)
 
 - Graduate Research Assistant, [http://chbe.ubc.ca/ Chemical and Biological Engineering], University of British Columbia, Canada, 09\/2020-12\/2021. (Advisor: [http://chbe.ubc.ca/profile/yankai-cao/ prof. Yankai Cao]) (conducted online due to Covid and visa issues)
 
@@ -38,10 +40,7 @@ I recevied my Master's degree in Control Science and Engineering, [http://ev.bua
 
 === Recent News
 ~~~
-- *Dec. 2023* I will attend CDC2023 in Singapore.
-- My recent work "Robust Optimal Control With Binary Adjustable Uncertainties" was submitted to ECC2024.
-- My recent work "Unlocking Energy Flexibility From Thermal Inertia of Buildings: A Robust Optimization Approach" was accepted by CDC 2023
-- My recent work "Robust Optimal Control With Inexact State Measurements and Adjustable Uncertainty Sets" was accepted by IFAC 2023
+- My new paper "Model Predictive Building Climate Control for Mitigating Heat Pump Noise Pollution" was accepted to ECC2025. See you in Thessaloniki!
 ~~~
 
 ~~~
